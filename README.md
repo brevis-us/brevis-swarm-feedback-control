@@ -1,14 +1,5 @@
-# brevis-swarm-feedback-control
+Feedback control of evolving swarms simulated with Brevis
 
-A Clojure library designed to ... well, that part is up to you.
+Full citation:
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Gold, J., A. Wang, and K. Harrington, (2014) "Feedback Control of Evolving Swarms". In Proceedings of Artificial Life XIV, pp. 884-891.
